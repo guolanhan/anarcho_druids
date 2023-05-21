@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "BastardaPlain";
+  src: url("fonts/BastardaPlain.ttf") format("truetype");
+}
+
+
+body {
+	min-height: 100vh;
+	background: linear-gradient(45deg, black 30%, green); 
+	
+}
+
+header {
+	color: white;
+	font-size: 60pt;
+	text-align: center;
+	font-family: "BastardaPlain", sans-serif;
+}
+
+
+.mainbg {
+	position: relateve;
+	vertical-align: middle;
+	margin-left: 40%;
+}
