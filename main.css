@@ -23,7 +23,7 @@ section {
 	min-height: 100vh;
 	background-image: url("tree1.png");
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center top;
 }
 
 .mainbg {
