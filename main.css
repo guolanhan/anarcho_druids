@@ -1,6 +1,6 @@
 @font-face {
   font-family: "BastardaPlain";
-  src: url("BastardaPlain.ttf") format("truetype");
+  src: url("fonts/BastardaPlain.ttf") format("truetype");
 }
 
 
@@ -17,6 +17,14 @@ header {
 	font-family: "BastardaPlain", sans-serif;
 }
 
+
+
+section {
+	min-height: 100vh;
+	background-image: url("images/tree1.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
 
 .mainbg {
 	position: relateve;
